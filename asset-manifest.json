@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0198cae.css",
+    "main.js": "/static/js/main.c467307b.js",
+    "static/media/Mobilepay.png": "/static/media/Mobilepay.ee3fa9321486250546ba.png",
+    "index.html": "/index.html",
+    "main.a0198cae.css.map": "/static/css/main.a0198cae.css.map",
+    "main.c467307b.js.map": "/static/js/main.c467307b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0198cae.css",
+    "static/js/main.c467307b.js"
+  ]
+}
