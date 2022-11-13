@@ -30,8 +30,6 @@ const TransactionsForm = (props) => {
       discount: 0,
     };
 
-    console.log(typeof transactionsData.amount);
-
     props.onSaveTransactionData(transactionsData);
 
     setEnteredAmount("");
